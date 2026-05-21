@@ -1,0 +1,6 @@
+# Keep original/high-resolution image sources out of the public repository.
+assets/logo.png
+assets/originals/
+assets/source/
+*.psd
+*.ai
